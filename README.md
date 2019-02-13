@@ -1,8 +1,5 @@
 # labpy1
 
-
-# labpy1
-
 #![screenshot 25](https://user-images.githubusercontent.com/46510679/52613486-ab0f0e80-2ec0-11e9-96f5-10131d3b85f4.png)
 
 Penjelasannya
